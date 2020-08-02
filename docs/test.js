@@ -1,1 +1,1 @@
-export const HELLO = 3;
+export const bap = 3;

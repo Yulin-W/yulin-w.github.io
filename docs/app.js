@@ -1,2 +1,2 @@
-import { HELLO } from './test.js';
+import { bap } from './test';
 console.log(HELLO);
