@@ -1,1 +1,0 @@
-export const bap = 3;
