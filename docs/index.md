@@ -8,7 +8,7 @@
   - [Webapp](https://yulin-w.github.io/alternate-history-editor/main.html)
   ![](https://raw.githubusercontent.com/Yulin-W/alternate-history-editor/master/Sample-gifs/alternate_hist_sample.gif)
 - Region Selection Data Display: 
-  - [Github repository](https://github.com/region-selection-data-display/)
+  - [Github repository](https://github.com/Yulin-W/region-selection-data-display)
   - [Webapp](https://yulin-w.github.io/region-selection-data-display/)
   ![](https://raw.githubusercontent.com/Yulin-W/region-selection-data-display/master/example.gif)
 # About me
