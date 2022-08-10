@@ -1,5 +1,4 @@
 # Welcome to Yulin W's Github Pages
-# [My Economics Blog](https://yulin-w.github.io/economics/)
 
 # Projects
 - Making History Sandbox: Alternate History Timeline editor: A simple click-to-colour mapping webapp made in React for rapid creation of collections of maps with coloured customisable regions. Tailored for historic timeline mapping. This is the successor to Alternate History Editor with a more polished design.
