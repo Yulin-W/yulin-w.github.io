@@ -9,11 +9,11 @@ A partial list of projects. For other projects, visit my [GitHub profile](https:
 
 ## Academic
 
-### [Mako](https://github.com/shimlab/mako)
+### [Mako](https://shimlab.github.io/mako/)
 Differential analysis of RNA modifications using Oxford Nanopore Technologies (ONT) direct RNA sequencing data.
 - **Links:** [Documentation](https://shimlab.github.io/mako/) · [GitHub](https://github.com/shimlab/mako)
 
-### [WaveFactor](https://github.com/shimlab/WaveFactor)
+### [WaveFactor](https://shimlab.github.io/WaveFactor/)
 Prior-informed Bayesian factor model for spatial transcriptomics that accounts for multi-scale spatial information via 2D wavelet transforms.
 - **Links:** [Documentation](https://shimlab.github.io/WaveFactor/) · [GitHub](https://github.com/shimlab/WaveFactor)
 
