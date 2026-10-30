@@ -1,15 +1,34 @@
-# Welcome to Yulin W's Github Pages
+---
+layout: default
+title: Yulin W
+---
 
-# Projects
-- Making History Sandbox: Alternate History Timeline editor: A simple click-to-colour mapping webapp made in React for rapid creation of collections of maps with coloured customisable regions. Tailored for historic timeline mapping. This is the successor to Alternate History Editor with a more polished design.
-  - [Github repository](https://github.com/Yulin-W/making-history-sandbox)
-  - [Webapp](https://yulin-w.github.io/making-history-sandbox/)
-  ![](https://raw.githubusercontent.com/Yulin-W/making-history-sandbox/main/non_app_essential/showcase/timeline-showcase.gif)
-- Alternate History Editor: A simple click-to-colour mapping webapp for rapid creation of collections of maps with coloured customisable regions. Tailored for historic timeline mapping.
-  - [Github repository](https://github.com/Yulin-W/alternate-history-editor)
-  - [Webapp](https://yulin-w.github.io/alternate-history-editor/main.html)
-  ![](https://raw.githubusercontent.com/Yulin-W/alternate-history-editor/master/Sample-gifs/alternate_hist_sample.gif)
-- Region Selection Data Display: 
-  - [Github repository](https://github.com/Yulin-W/region-selection-data-display)
-  - [Webapp](https://yulin-w.github.io/region-selection-data-display/)
-  ![](https://raw.githubusercontent.com/Yulin-W/region-selection-data-display/master/example.gif)
+A partial list of projects. For other projects, visit my [GitHub profile](https://github.com/Yulin-W).
+
+---
+
+## Academic
+
+### [Mako](https://github.com/shimlab/mako)
+Differential analysis of RNA modifications using Oxford Nanopore Technologies (ONT) direct RNA sequencing data.
+- **Links:** [Documentation](https://shimlab.github.io/mako/) · [GitHub](https://github.com/shimlab/mako)
+
+### [WaveFactor](https://github.com/shimlab/WaveFactor)
+Prior-informed Bayesian factor model for spatial transcriptomics that accounts for multi-scale spatial information via 2D wavelet transforms.
+- **Links:** [Documentation](https://shimlab.github.io/WaveFactor/) · [GitHub](https://github.com/shimlab/WaveFactor)
+
+---
+
+## Other
+
+### [Making History Sandbox](https://yulin-w.github.io/making-history-sandbox/)
+Webapp for making alternate histories, and or choropleth maps in general. Features include map colouring, legend, pre-made scenarios, region information, custom basemaps and more. Successor to Alternate History Editor.
+- **Links:** [Webapp](https://yulin-w.github.io/making-history-sandbox/) · [GitHub](https://github.com/Yulin-W/making-history-sandbox)
+
+### [Incremental AI](https://yulin-w.github.io/incremental-ai/)
+An interactive idle game exploring the history, mathematics, and paradigm shifts of AI from antiquity to the modern era.
+- **Links:** [Webapp](https://yulin-w.github.io/incremental-ai/) · [GitHub](https://github.com/Yulin-W/incremental-ai)
+
+### [Flexible Interval Timer](https://yulin-w.github.io/flexible-interval-timer/)
+Webapp for easily setting up custom interval timers for tasks with notifications. Suitable for pomodoro, 5-minute blocking, interval training and generally whenever timed intervals are useful.
+- **Links:** [Webapp](https://yulin-w.github.io/flexible-interval-timer/) · [GitHub](https://github.com/Yulin-W/flexible-interval-timer)
